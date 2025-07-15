@@ -74,7 +74,7 @@ Choose
 ++++++
 | 这是骰主自己写的但是有借鉴
 | 指令：``选择...还是...还是......``理论上可以无限多
-.. image:: images/choose.png
+.. image:: images/Choose.png
 
 | **请不要用其刷屏！**
 
