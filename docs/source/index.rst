@@ -9,6 +9,8 @@ Welcome to Dogbird's manual!
 
 This project is under active development.  
 
+暂时只有秩灵（溯洄系）
+
 
 Contents
 --------
