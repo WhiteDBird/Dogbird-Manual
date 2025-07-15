@@ -1,22 +1,13 @@
-Welcome to Lumache's documentation!
+Welcome to Dogbird's manual!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+| 本手册是为了帮助不会使用骰娘的人快速上手
+| 欢迎联系骰主狗鸟Dogbird！
+| QQ:2838407585
+| vx:DbirdMons1617qz
+| 邮箱:darksea_dogbird@qq.com
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+This project is under active development.  
 
-.. note::
 
-   This project is under active development.
-
-Contents
---------
-
-.. toctree::
-
-   usage
-   api
+:doc:`秩灵 <./OrderExecutor.md>`
