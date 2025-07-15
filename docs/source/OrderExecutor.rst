@@ -74,22 +74,22 @@ Choose
 ++++++
 | 这是骰主自己写的但是有借鉴
 | 指令：``选择...还是...还是......``理论上可以无限多
-.. image:: images/choose.jpg
+.. image:: images/choose.png
 
 | **请不要用其刷屏！**
 
 漂流瓶
 +++++
-.. image:: images/plp.jpg
+.. image:: images/plp.png
 | 原创版再写了在写了，可以在这丢下跑团经历啊，说不定能找到心有灵犀的人
 
 每日签到
 +++++++
 | 骰主不喜欢好感度系统而且对秩灵来说这也挺ooc的，所以签到只是普通的记录天数和抽取，内容来自克苏鲁神话
-.. image:: images/mrqd.jpg
+.. image:: images/mrqd.png
 
 log
 +++
 
 | 添加了log的插件加入了溯洄没有的log操作
-.. image:: images/log.jpg
+.. image:: images/log.png
