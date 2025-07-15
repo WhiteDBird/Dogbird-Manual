@@ -19,6 +19,7 @@
 | 邮箱：darksea_dogbird@qq.com
 
 给你们看看美丽骰主（和秩灵长得很像，世界观原因）
+.. image:: images/zishe.jpg
 
 必看项！！！！！！！！！
 +++++++++++++++++++
