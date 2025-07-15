@@ -10,4 +10,10 @@ Welcome to Dogbird's manual!
 This project is under active development.  
 
 
-:doc:`秩灵 <./OrderExecutor.md>`
+Contents
+--------
+
+.. toctree::
+
+   OrderExecutor
+   api
