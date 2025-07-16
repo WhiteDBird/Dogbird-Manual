@@ -82,7 +82,7 @@ group群管指令
 +++++++++++
 - ``.group state``   --查看在群内对骰娘的设置
 - ``.group pause/restart``   --群全体禁言/全体解除禁言
-- `.group card [at/用户ID] [名片]`   --设置群员名片
+- ``.group card [at/用户ID] [名片]``   --设置群员名片
 - ``.group title [at/用户ID] [头衔]``   --设置群员头衔
 - ``.group diver   --查看潜水成员``
 - ``.group +/-[群管词条]``   --为群加减设置，需要对应权限
