@@ -93,13 +93,13 @@ game（游戏模式）
 +++++++++++++
 | 不是team哦，溯洄有自己的game
 - ``.game new 桌名`` --创建游戏（桌名可省略，前缀以`规则-`可以指定应用规则）
-| 例: ``.game new DND-``
+| 例: .game new DND-
 | 创建者自动视为GM
 - ``.game over``  --销毁本桌游戏
 - ``.game state``  --查看本桌状态
-- ``.game master`  --登记为GM
-- ``.game set 属性=值` 游戏设置
-| 例: ``.game set rule=COC7``
+- ``.game master``  --登记为GM
+- ``.game set 属性=值`` 游戏设置
+| 例: .game set rule=COC7
 - ``.game set 属性``  --查看设置
 - ``.game call``  --at玩家
 - ``.game join``  --玩家登记
